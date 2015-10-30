@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D7E916FB285D50AD29236CBF7F047533BA433F16",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D7E916FB285D50AD29236CBF7F047533BA433F16" : 0,
+    "C74C4567F09E5E3BCD505923769794D9228935B9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "06FC6BB0-4013-4614-BD5B-3A671E11CA0B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D7E916FB285D50AD29236CBF7F047533BA433F16" : "PickUp",
+    "C74C4567F09E5E3BCD505923769794D9228935B9" : "PickUp\/PickUp"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PickUp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PickUp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TySchultz\/PickUp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C74C4567F09E5E3BCD505923769794D9228935B9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TySchultz\/Mango.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D7E916FB285D50AD29236CBF7F047533BA433F16"
+    }
+  ]
+}

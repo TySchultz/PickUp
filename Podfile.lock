@@ -1,0 +1,66 @@
+PODS:
+  - AFNetworking (2.3.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.3.1)
+  - AFNetworking/Security (2.3.1)
+  - AFNetworking/Serialization (2.3.1)
+  - AFNetworking/UIKit (2.3.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Canvas (0.1.1)
+  - ClusterPrePermissions (0.2.0)
+  - FlatUIKit (1.4)
+  - JSQMessagesViewController (5.2.5):
+    - JSQSystemSoundPlayer
+  - JSQSystemSoundPlayer (1.5.2)
+  - Mixpanel (2.4.0)
+  - pop (1.0.6)
+  - Reveal-iOS-SDK (1.0.4)
+  - Shimmer (1.0.1)
+  - SVProgressHUD (HEAD based on 1.0)
+  - VTAcknowledgementsViewController (0.11)
+  - ZFDragableModalTransition (0.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - Canvas (~> 0.1)
+  - ClusterPrePermissions (~> 0.1)
+  - FlatUIKit
+  - JSQMessagesViewController
+  - Mixpanel
+  - pop (~> 1.0)
+  - Reveal-iOS-SDK
+  - Shimmer
+  - SVProgressHUD (HEAD)
+  - VTAcknowledgementsViewController
+  - ZFDragableModalTransition
+
+SPEC CHECKSUMS:
+  AFNetworking: 6d7b76aa5d04c8c37daad3eef4b7e3f2a7620da3
+  Canvas: 45356a2e61087a776bfde5090676d290cf67f7f2
+  ClusterPrePermissions: 993c83e7adaaf27438176caceac149d1ba62e4da
+  FlatUIKit: edc1ed0c130687dc64a10e45851cc58925f6893d
+  JSQMessagesViewController: ca64d32c789ac8e95b3bfb28171ff0afecf2b27b
+  JSQSystemSoundPlayer: c24914bc96ff5365b5d28b59d7ecffd60d1c5587
+  Mixpanel: 8cdf6fc831ae1f7515f0d8164dcc381990e0a23a
+  pop: e518794da38942c05255eb64b36d894e70cb4f00
+  Reveal-iOS-SDK: d3c8e109d42219daaa7a6e1ad2de34f0bdbb7a88
+  Shimmer: 35aa2a57b8fbc17f9e16706021665966fd93dbd1
+  SVProgressHUD: 5034c6e22b8c2ca3e09402e48d41ed0340aa1c50
+  VTAcknowledgementsViewController: 6e71652adbe73c68f0a278a73ac9ca1e1fc00b90
+  ZFDragableModalTransition: 734279090d537b1f701b6efdccd41b0f78503de9
+
+COCOAPODS: 0.33.1

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>06FC6BB0-4013-4614-BD5B-3A671E11CA0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PickUp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C74C4567F09E5E3BCD505923769794D9228935B9</key>
+		<string>https://github.com/TySchultz/PickUp.git</string>
+		<key>D7E916FB285D50AD29236CBF7F047533BA433F16</key>
+		<string>https://github.com/TySchultz/Mango.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PickUp.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C74C4567F09E5E3BCD505923769794D9228935B9</key>
+		<string>../PickUp</string>
+		<key>D7E916FB285D50AD29236CBF7F047533BA433F16</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/TySchultz/Mango.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D7E916FB285D50AD29236CBF7F047533BA433F16</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D7E916FB285D50AD29236CBF7F047533BA433F16</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PickUp</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C74C4567F09E5E3BCD505923769794D9228935B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PickUp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
