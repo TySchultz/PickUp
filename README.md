@@ -10,7 +10,8 @@ Create an account and join or create a league. Within this league compete with y
  - Facebook Pop
  - Parse
  - Magical Record 
- - 
+ - Sketch 3 (Design planning and resources)
+
 
 #Screens
 ![Alt text](ReadmeResources/Intro.gif?raw=true "Intro.gif")
